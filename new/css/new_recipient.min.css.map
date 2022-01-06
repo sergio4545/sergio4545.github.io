@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iBAAiB,AAAC,CACd,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,MAAM,CACd,UAAU,CAAE,IAAI,CAAG",
+    "sources": [
+        "../sass/new_recipient.sass"
+    ],
+    "names": [],
+    "file": "new_recipient.min.css"
+}
