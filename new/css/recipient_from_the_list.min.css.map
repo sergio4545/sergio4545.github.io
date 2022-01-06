@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,wBAAwB,AAAC,CACrB,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,MAAM,CACd,UAAU,CAAE,IAAI,CAAG",
-    "sources": [
-        "../sass/recipient_from_the_list.sass"
-    ],
-    "names": [],
-    "file": "recipient_from_the_list.min.css"
-}
